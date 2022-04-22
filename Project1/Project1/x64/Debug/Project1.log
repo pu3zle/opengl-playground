@@ -1,0 +1,4 @@
+﻿  App.cpp
+D:\SEM6\Grafica\OPENGL\opengl_project\Project1\Project1\src\App.cpp(149,114): warning C4311: 'type cast': pointer truncation from 'Position_2D *' to 'int'
+D:\SEM6\Grafica\OPENGL\opengl_project\Project1\Project1\src\App.cpp(149,114): warning C4302: 'type cast': truncation from 'Position_2D *' to 'int'
+  Project1.vcxproj -> D:\SEM6\Grafica\OPENGL\opengl_project\Project1\x64\Debug\Project1.exe
